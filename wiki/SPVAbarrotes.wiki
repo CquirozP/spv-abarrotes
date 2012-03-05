@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#labels Phase-Requirements
 
 =  Sistemas Punto de Venta Abarrotes  =
 
@@ -17,6 +18,4 @@ Para la solución de esta problemática se crearan e implementaran los siguiente
  * Visual Studio 2010
  * MySQL 5.5
  * Crystal Report
-
-
 
