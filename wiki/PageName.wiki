@@ -1,0 +1,32 @@
+#summary One-sentence summary of this page.
+
+=CASOS DE USO DE INVENTARIO=
+
+||Nombre del proceso||Inventario||
+||Fecha||	07 de marzo de 2012||
+||Descripción||	El usuario agregará producto al inventario||
+||Actores||	Administrador, sistema||
+||Flujo normal||1.	El usuario se ubica en la interfaz de Inventario.||
+||Flujo normal||2.	El usuario agrega el código del producto a registrar en el inventario||
+||Flujo normal||3.	El sistema muestra el producto y la cantidad existente.||
+||Flujo normal||4.	El usuario agrega la cantidad de producto a agregar.||
+||Flujo normal||5.	Se actualiza la base de datos.||
+||Flujo normal||6.	Se realiza un nuevo reporte de inventario.||
+||Flujo alternativo||	       2.1 Si el código ingresado es incorrecto Se agrega un  nuevo código para que el producto pueda ser agregado||
+
+=CASO DE USO DEL CORTE DE CAJA=
+
+||Nombre del proceso||	Corte de caja||
+||Fecha||	25 de octubre del 2011||
+||Descripción||	El sistema permitirá al usuario hacer el corte de caja del día para saber los movimientos financieros.||
+||Actores||	Usuarios del sistema (empleado o dueño de la tienda).||
+||Flujo normal||	1.	El usuario ingresa dinero en cambio para la tienda.|| 
+||Flujo normal||2.	Se actualiza la base de datos corte de caja.||
+||Flujo normal||3.	El usuario le solicita el corte de caja al programa.||
+||Flujo normal||4.	El sistema realiza el corte de caja de las ventas del día.||
+||Flujo normal||5.	El sistema muestra los ingresos y egresos del día||
+||Flujo normal||6.	No hacer alguna modificación de los ingresos del día.||
+||Flujo normal||7.	El sistema guarda la venta del día.||
+||Flujo alternativo.||	6.1	Hacer alguna modificación en los ingresos del día. Regresa al punto 1.||
+
+
