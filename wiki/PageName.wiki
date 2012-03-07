@@ -29,4 +29,24 @@
 ||Flujo normal||7.	El sistema guarda la venta del día.||
 ||Flujo alternativo.||	6.1	Hacer alguna modificación en los ingresos del día. Regresa al punto 1.||
 
+=CASO DE USO DE PRODUCTOS=
 
+||Nombre del proceso||Productos||
+|Fecha||07 de marzo de 2012||
+||Descripción||El usuario manipulará los productos  en la tienda de Abarrotes Freddy||
+||Actores||Administrador, sistema||
+||Flujo normal||
+||Flujo normal||1.	El usuario se va a la interfaz de Producto.||
+||Flujo normal||2.	El usuario del sistema selecciona agregar un producto.||
+||Flujo normal||3.	Agrega los datos del producto.||
+||Flujo normal||4.	Guarda las cambios realizados y se actualiza la base de datos||
+||Flujo normal||5.	El usuario modificará los datos de un producto.||
+||Flujo normal||6.	El usuario dará clic en “modificar”.||
+||Flujo normal||7.	Modificará los atributos que desea.||
+||Flujo normal||8.	Guardará los cambios y se actualiza la base de datos||
+||Flujo normal||9.	El usuario selecciona un producto, el que va eliminar.||
+||Flujo normal||10.	El usuario da clic en eliminar en el sistema||
+||Flujo normal||11.	El producto queda eliminado y se actualiza la base de datos||
+||Flujo normal||12.	El usuario regresa a la interfaz de producto||
+||Flujo alternativo||3.1 Datos incorrectos. *Los datos agregados serán ingresados nuevamente.||
+        
