@@ -69,3 +69,23 @@
 ||Flujo alternativo.||	3.1	El producto no está en existencia. se informa al cliente que el producto deseado no está en el sistema y se le ofrece otro producto similar al deseado.||
 ||Flujo alternativo.||      5.1 Si el cliente no desea algún producto ya seleccionado.El empleado ingresa la clave para descontar el producto.||
 ||Flujo alternativo.||       5.2 El cliente no desea comprar y cancelar compra. El empleado realiza la cancelación de la venta.||
+
+=Caso de Uso Proveedores=
+
+
+||Nombre del proceso||	Surtir pedidos (proveedor)||
+||Fecha	||07 de marzo de 2012||
+||Descripción||	Manipulación de los datos de los proveedores||
+||Actores||	Administrador, sistema||
+||Flujo normal|| 1.	El usuario se va a la interfaz de Proveedores||
+||Flujo normal||2.	El usuario agregará nuevos proveedores ||
+||Flujo normal||3.	Agrega los datos del proveedor.||
+||Flujo normal||4.	Guarda las cambios realizados y se actualiza la base de datos||
+||Flujo normal||5.	El usuario modificará los datos de un proveedor||
+||Flujo normal|| 6.	El usuario del sistema selecciona agregar un proveedor.||
+||Flujo normal||7.	El usuario selecciona un proveedor, el que desee.||
+||Flujo normal||8.	Modifica los datos que han sido cambiados recientemente para tener actualizado los datos.||
+||Flujo normal||9.	El usuario selecciona un proveedor, el que va eliminar.||
+||Flujo normal|| 10.	El usuario da clic en eliminar en el sistema||
+||Flujo normal||11.	El proveedor queda eliminado y se actualiza la base de datos||
+||Flujo normal||12.	El usuario regresa a la interfaz de proveedores||
