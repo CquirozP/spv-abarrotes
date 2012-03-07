@@ -58,7 +58,6 @@
 ||Fecha||	07 de marzo de 2012||
 ||Descripción||	El sistema permitirá al cliente realizar una compra según el producto elegido||
 ||Actores||	Cliente, usuarios del sistema (empleado).||
-
 ||Flujo normal||	1.	El cliente ingresa a la tienda.||
 ||Flujo normal|| 2.	El cliente pide o selecciona el o los productos que desea comprar.||
 ||Flujo normal||3.	El empleado atiende a la solicitud.||
