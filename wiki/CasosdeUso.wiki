@@ -1,0 +1,71 @@
+#summary One-sentence summary of this page.
+#labels Phase-Requirements
+
+=CASOS DE USO DE INVENTARIO=
+
+||Nombre del proceso||Inventario||
+||Fecha||	07 de marzo de 2012||
+||Descripción||	El usuario agregará producto al inventario||
+||Actores||	Administrador, sistema||
+||Flujo normal||1.	El usuario se ubica en la interfaz de Inventario.||
+||Flujo normal||2.	El usuario agrega el código del producto a registrar en el inventario||
+||Flujo normal||3.	El sistema muestra el producto y la cantidad existente.||
+||Flujo normal||4.	El usuario agrega la cantidad de producto a agregar.||
+||Flujo normal||5.	Se actualiza la base de datos.||
+||Flujo normal||6.	Se realiza un nuevo reporte de inventario.||
+||Flujo alternativo||	       2.1 Si el código ingresado es incorrecto Se agrega un  nuevo código para que el producto pueda ser agregado||
+
+=CASO DE USO DEL CORTE DE CAJA=
+
+||Nombre del proceso||	Corte de caja||
+||Fecha||	25 de octubre del 2011||
+||Descripción||	El sistema permitirá al usuario hacer el corte de caja del día para saber los movimientos financieros.||
+||Actores||	Usuarios del sistema (empleado o dueño de la tienda).||
+||Flujo normal||	1.	El usuario ingresa dinero en cambio para la tienda.|| 
+||Flujo normal||2.	Se actualiza la base de datos corte de caja.||
+||Flujo normal||3.	El usuario le solicita el corte de caja al programa.||
+||Flujo normal||4.	El sistema realiza el corte de caja de las ventas del día.||
+||Flujo normal||5.	El sistema muestra los ingresos y egresos del día||
+||Flujo normal||6.	No hacer alguna modificación de los ingresos del día.||
+||Flujo normal||7.	El sistema guarda la venta del día.||
+||Flujo alternativo.||	6.1	Hacer alguna modificación en los ingresos del día. Regresa al punto 1.||
+
+=CASO DE USO DE PRODUCTOS=
+
+||Nombre del proceso||Productos||
+|Fecha||07 de marzo de 2012||
+||Descripción||El usuario manipulará los productos  en la tienda de Abarrotes Freddy||
+||Actores||Administrador, sistema||
+||Flujo normal||
+||Flujo normal||1.	El usuario se va a la interfaz de Producto.||
+||Flujo normal||2.	El usuario del sistema selecciona agregar un producto.||
+||Flujo normal||3.	Agrega los datos del producto.||
+||Flujo normal||4.	Guarda las cambios realizados y se actualiza la base de datos||
+||Flujo normal||5.	El usuario modificará los datos de un producto.||
+||Flujo normal||6.	El usuario dará clic en “modificar”.||
+||Flujo normal||7.	Modificará los atributos que desea.||
+||Flujo normal||8.	Guardará los cambios y se actualiza la base de datos||
+||Flujo normal||9.	El usuario selecciona un producto, el que va eliminar.||
+||Flujo normal||10.	El usuario da clic en eliminar en el sistema||
+||Flujo normal||11.	El producto queda eliminado y se actualiza la base de datos||
+||Flujo normal||12.	El usuario regresa a la interfaz de producto||
+||Flujo alternativo||3.1 Datos incorrectos. *Los datos agregados serán ingresados nuevamente.||
+        
+
+=Caso de uso de registro de Venta=
+
+||Nombre del proceso||	Realizar ventas||
+
+||Fecha||	07 de marzo de 2012||
+||Descripción||	El sistema permitirá al cliente realizar una compra según el producto elegido||
+||Actores||	Cliente, usuarios del sistema (empleado).||
+||Flujo normal||	1.	El cliente ingresa a la tienda.||
+||Flujo normal|| 2.	El cliente pide o selecciona el o los productos que desea comprar.||
+||Flujo normal||3.	El empleado atiende a la solicitud.||
+||Flujo normal|| 4.	El empleado realiza la venta ingresando el código de barra del producto.||
+||Flujo normal||5.	El cliente paga el monto de la compra.||
+||Flujo normal||6.	El empleado recibe el dinero y da un cambio si así es necesario||
+||Flujo normal||7.	El cliente se retira.||
+||Flujo alternativo.||	3.1	El producto no está en existencia. se informa al cliente que el producto deseado no está en el sistema y se le ofrece otro producto similar al deseado.||
+||Flujo alternativo.||      5.1 Si el cliente no desea algún producto ya seleccionado.El empleado ingresa la clave para descontar el producto.||
+||Flujo alternativo.||       5.2 El cliente no desea comprar y cancelar compra. El empleado realiza la cancelación de la venta.||
