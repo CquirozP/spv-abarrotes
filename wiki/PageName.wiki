@@ -50,3 +50,22 @@
 ||Flujo normal||12.	El usuario regresa a la interfaz de producto||
 ||Flujo alternativo||3.1 Datos incorrectos. *Los datos agregados serán ingresados nuevamente.||
         
+
+=Caso de uso de registro de Venta=
+
+||Nombre del proceso||	Realizar ventas||
+
+||Fecha||	07 de marzo de 2012||
+||Descripción||	El sistema permitirá al cliente realizar una compra según el producto elegido||
+||Actores||	Cliente, usuarios del sistema (empleado).||
+
+||Flujo normal||	1.	El cliente ingresa a la tienda.||
+||Flujo normal|| 2.	El cliente pide o selecciona el o los productos que desea comprar.||
+||Flujo normal||3.	El empleado atiende a la solicitud.||
+||Flujo normal|| 4.	El empleado realiza la venta ingresando el código de barra del producto.||
+||Flujo normal||5.	El cliente paga el monto de la compra.||
+||Flujo normal||6.	El empleado recibe el dinero y da un cambio si así es necesario||
+||Flujo normal||7.	El cliente se retira.||
+||Flujo alternativo.||	3.1	El producto no está en existencia. se informa al cliente que el producto deseado no está en el sistema y se le ofrece otro producto similar al deseado.||
+||Flujo alternativo.||      5.1 Si el cliente no desea algún producto ya seleccionado.El empleado ingresa la clave para descontar el producto.||
+||Flujo alternativo.||       5.2 El cliente no desea comprar y cancelar compra. El empleado realiza la cancelación de la venta.||
