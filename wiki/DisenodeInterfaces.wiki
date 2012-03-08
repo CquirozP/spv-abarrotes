@@ -1,0 +1,28 @@
+#summary One-sentence summary of this page.
+#labels Phase-Design
+
+       = Diseño de interfaces = 
+
+ *=== Interfaz de venta===
+
+http://spv-abarrotes.googlecode.com/files/iVentas.png
+
+ *=== Interfaz de Producto ===
+
+http://spv-abarrotes.googlecode.com/files/iProductos.png
+
+ *=== Interfaz de Proveedores===
+
+http://spv-abarrotes.googlecode.com/files/iProveedores.png
+
+ *=== Interfaz de Inventario===
+
+http://spv-abarrotes.googlecode.com/files/iInventario.png
+
+ *=== Interfaz de Inventario 2===
+
+http://spv-abarrotes.googlecode.com/files/iInventario2.png
+
+ *=== Interfaz de Corte===
+
+http://spv-abarrotes.googlecode.com/files/iCorte.png
