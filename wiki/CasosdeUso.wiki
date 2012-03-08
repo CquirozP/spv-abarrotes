@@ -33,7 +33,7 @@
 =CASO DE USO DE PRODUCTOS=
 
 ||Nombre del proceso||Productos||
-|Fecha||07 de marzo de 2012||
+||Fecha||07 de marzo de 2012||
 ||Descripción||El usuario manipulará los productos  en la tienda de Abarrotes Freddy||
 ||Actores||Administrador, sistema||
 ||Flujo normal||
@@ -55,7 +55,6 @@
 =Caso de uso de registro de Venta=
 
 ||Nombre del proceso||	Realizar ventas||
-
 ||Fecha||	07 de marzo de 2012||
 ||Descripción||	El sistema permitirá al cliente realizar una compra según el producto elegido||
 ||Actores||	Cliente, usuarios del sistema (empleado).||
