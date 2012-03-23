@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+=Instalador del Sistema SPV-Abarrotes=
+|| ||
+
+=Script de la Base de datos=
+|| ||
+
+
+==Requisitos del sistema==
+
+||Sistema|| Windows 7 x86/x64 bits, memoria RAM 1 GB||
+||Disco Duro|| 10 MB de espacio libre antes de instalar||
+||Memoria RAM|| 1 Giga o más||
+||Monitor|| SVGA 800 x 600, mínimo 256 colores, o superior.||
+
+
+	
