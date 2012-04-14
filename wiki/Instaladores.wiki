@@ -3,8 +3,6 @@
 =Instalador del Sistema SPV-Abarrotes=
 ||http://spv-abarrotes.googlecode.com/files/spv_abarrotes.exe ||
 
-=Script de la Base de datos=
-|| ||
 
 
 ==Requisitos del sistema==
