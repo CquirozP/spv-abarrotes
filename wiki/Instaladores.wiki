@@ -3,6 +3,19 @@
 =Instalador del Sistema SPV-Abarrotes=
 ||http://spv-abarrotes.googlecode.com/files/spv_abarrotes.exe ||
 
+=Instalador Versión 0.3=
+||http://spv-abarrotes.googlecode.com/files/spv_abarrotes_V_0.3.exe||
+
+=Instalador Versión 0.5=
+||http://spv-abarrotes.googlecode.com/files/spv_abarrotes_V_0.5.exe||
+
+=Instalador Versión 1.0=
+
+||http://spv-barrotes.googlecode.com/files/spv_abarrotes%20V%201.0.exe||
+
+
+
+
 
 
 ==Requisitos del sistema==
