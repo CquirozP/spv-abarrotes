@@ -1,6 +1,8 @@
 #summary One-sentence summary of this page.
 
-=Instalador del Sistema SPV-Abarrotes=
+=Instaladores del Sistema SPV-Abarrotes=
+
+=Instalador Versión 0.1=
 ||http://spv-abarrotes.googlecode.com/files/spv_abarrotes.exe ||
 
 =Instalador Versión 0.3=
