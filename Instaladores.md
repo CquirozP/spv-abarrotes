@@ -1,0 +1,33 @@
+# Instaladores del Sistema SPV-Abarrotes #
+
+# Instalador Versión 0.1 #
+|http://spv-abarrotes.googlecode.com/files/spv_abarrotes.exe |
+|:-----------------------------------------------------------|
+
+# Instalador Versión 0.3 #
+|http://spv-abarrotes.googlecode.com/files/spv_abarrotes_V_0.3.exe|
+|:----------------------------------------------------------------|
+
+# Instalador Versión 0.5 #
+|http://spv-abarrotes.googlecode.com/files/spv_abarrotes_V_0.5.exe|
+|:----------------------------------------------------------------|
+
+# Instalador Versión 1.0 #
+
+|http://spv-barrotes.googlecode.com/files/spv_abarrotes%20V%201.0.exe|
+|:-------------------------------------------------------------------|
+
+
+
+
+
+
+## Requisitos del sistema ##
+
+|Sistema| Windows 7 x86/x64 bits, memoria RAM 1 GB|
+|:------|:----------------------------------------|
+|Disco Duro| 700 MB de espacio libre antes de instalar|
+|Memoria RAM| 1 Giga o más                            |
+|Monitor| SVGA 800 x 600, mínimo 256 colores, o superior.|
+
+

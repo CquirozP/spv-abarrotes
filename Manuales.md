@@ -1,0 +1,8 @@
+# Manual técnico #
+
+http://spv-abarrotes.googlecode.com/files/manualdeusuario.pdf
+
+
+# Manual de usuario #
+
+http://spv-abarrotes.googlecode.com/files/Manual%20tecnico%202.pdf

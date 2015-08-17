@@ -1,0 +1,17 @@
+# Sistemas Punto de Venta Abarrotes #
+
+## Problemática ##
+La Tienda “Abarrotes Edy” actualmente cuenta con un registro manual del control de sus ventas, tampoco hay un control claro de sus ingresos y egresos financieros como registros de sus ventas diarias, semanales y mensuales; no cuentan con un registro ordenado con la información necesaria de sus proveedores.
+
+## Solución ##
+Para la solución de esta problemática se crearan e implementaran los siguientes módulos:
+  * Inventario
+  * Punto de Venta
+  * Ingresos y egresos
+  * Proveedores
+  * Artículos
+
+## Recursos a utilizar ##
+  * Visual Studio 2010
+  * MySQL 5.5
+  * Crystal Report

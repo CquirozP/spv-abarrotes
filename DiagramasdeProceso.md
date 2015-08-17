@@ -1,0 +1,16 @@
+![http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20corte%20de%20caja.png](http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20corte%20de%20caja.png)
+
+
+> # Diagrama de Flujo de Realizar una venta #
+
+![http://spv-abarrotes.googlecode.com/files/Diagrama%20Venta.png](http://spv-abarrotes.googlecode.com/files/Diagrama%20Venta.png)
+
+
+![http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20inventario.png](http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20inventario.png)
+
+
+
+![http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20producto.png](http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20producto.png)
+
+
+![http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20proveedores.png](http://spv-abarrotes.googlecode.com/files/flujo%20de%20datos%20de%20proveedores.png)
